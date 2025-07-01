@@ -1,8 +1,8 @@
-# Real-vs-Fake-Human-Faces
+# Real-vs-Fake-Human-Faces-(~88%)
 
 ## 📌 Subject ##
 This project aims tackles the growing challenge of distinguishing real human faces from artificially generated ones, such as those produced by deepfake technologies and GANs. With the increasing accessibility of AI-generated media, verifying authenticity has become an urgent technical and ethical concern.
-The model built here provides good accuracy (~87%) to distinguish between real and deepfaked human faces
+The model built here provides good accuracy (~88%) to distinguish between real and deepfaked human faces
 
 ## 📌 Objective ##
 - Build a deep CNN with Dropout regularization to avoid overfitting.
